@@ -1,0 +1,6 @@
+access_control:
+  enabled: true
+  policies:
+    - tag_query: ''
+      plan: ['*']
+      apply: ['*']
